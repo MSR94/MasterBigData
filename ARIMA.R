@@ -1,8 +1,5 @@
 library(forecast); library(ggplot2)
 
-
-setwd("C:/Users/Marga/Dropbox/TFM/CodigoR")
-
 TRAIN <- read.csv("./TRAIN.csv")
 TEST <- read.csv("./TEST.csv")
 TEST$X <- NULL
