@@ -1,4 +1,4 @@
-# Master Big Data
+# Análisis y pronóstico de la demanda energética en Baleares
 
 En este trabajo se diseñan y aplicar diferentes modelos para predecir la demanda energética de Baleares. Para ello, se tienen en cuenta variables climatológicas, festividades o épocas del año, entre otras. A partir de un gran número de variables, se aplica un método estadístico para determinar cuáles son las más informativas. Los modelos de predicción son construidos a partir de series temporales, métodos estadísticos y redes neuronales. Para cuantificar la fiabilidad de los modelos se usa el error cuadrático medio y el error porcentual absoluto medio, lo cuáles cuantifican el error cometido por cada método. Los resultados obtenidos sugieren que es mejor usar las redes neuronales o modelos estadísticos frente a las series temporales.
 
