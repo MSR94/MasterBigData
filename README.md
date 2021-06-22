@@ -1,3 +1,3 @@
 # Master Big Data
 
-Here you will find what I am doing at the Master in Big Data.
+The aim of this work is to design and apply different models to predict the energy demand of the Balearic Islands. To do this, climatological variables, festivities or times of the year are used, among others. From a large number of variables, a statistical method is applied to determine which are the most informative. Prediction models are constructed from time series, statistical methods and neural networks. To quantify the reliability of the models, the mean square error and the average absolute percentage error are used, which quantify the error committed by each method. The results obtained suggest that it is better to use neural networks or statistical models compared to time series.
